@@ -1,0 +1,60 @@
+body{
+background-color: aqua;
+text-align: center;
+}
+
+.box{
+    display: flex;
+    
+    height : 10vmin;
+    width : 10vmin;
+    margin: 0.5vmin;
+
+    text-align: center;
+    color:brown;
+    font-size: 8vmin;
+    border-radius: 2vmin;
+    background-color: aliceblue;
+
+}
+#winner{
+    color: burlywood;
+    
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    height : 36vmin;
+    width : 34vmin;
+    border :1px solid black;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding : 2vmin;
+    text-align: center;
+    
+}
+
+#restart{
+    margin: 2vmin;
+    background-color:red;
+    color: white;
+    border-radius: 2vmin;
+    height :8vmin;
+    width : 15vmin; 
+    font-style: oblique;
+    font-size: 3vmin;
+
+}
+
+h2{
+
+    color :blueviolet;
+    font-size: 15vmin;
+
+}
+
+h4{
+    font-size: 5vmin;
+}
