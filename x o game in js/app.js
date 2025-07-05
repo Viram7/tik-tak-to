@@ -84,6 +84,7 @@ if(draw_count === 9){
     console.log("draw");
     stop_game();
 winner_var.innerText = "match draw";
+    alert('match draw');
 }
 }
 
